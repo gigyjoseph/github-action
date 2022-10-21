@@ -3,7 +3,7 @@
 	"version": "0.0.0",
 	"scripts": {
 		"dev": "vite --host --port 1337",
-		"build": "vite build",
+		"build": "snowpack build",
 		"preview": "vite preview"
 	},
 	"dependencies": {
